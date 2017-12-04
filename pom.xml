@@ -13,9 +13,9 @@
     <version>0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>testing-postgresql-server</name>
+    <name>testing-postgresql10-server</name>
     <description>Embedded PostgreSQL server for use in tests</description>
-    <url>https://github.com/buremba/testing-postgresql-server</url>
+    <url>https://github.com/buremba/testing-postgresql10-server</url>
 
     <inceptionYear>2015</inceptionYear>
 
